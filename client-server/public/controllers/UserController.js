@@ -228,8 +228,6 @@ class UserController {
 
         User.getUsersStorage().then(data => {
 
-            console.log(data);
-
             data.users.forEach(dataUser => {
 
                 let user = new User();
