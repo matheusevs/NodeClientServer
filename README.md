@@ -16,9 +16,7 @@ Segue as orientações gerais para desenvolvedores que desejarem rodar o projeto
 
 
 ```bash
-sudo npm install express-generator -g
 sudo npm install nodemon -g
-express --ejs client-server
 
 cd client-server/public
 sudo npm install -g bower
