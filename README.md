@@ -39,6 +39,6 @@ nodemon index.js
 
 ---
 
-<!-- <img src="gif.gif"> -->
+<img src="gif.gif">
 
 ##
