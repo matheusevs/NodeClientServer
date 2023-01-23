@@ -11,12 +11,11 @@ Segue as orientações gerais para desenvolvedores que desejarem rodar o projeto
 **Para rodar o projeto em seu computador, é necessário ter instalado:**
 
 - <a href="https://nodejs.org/en/">NodeJS - v14.20.1</a>
--
 
 **Após a instalação de todos as ferramentas acima, rode os seguintes comandos em seu terminal:**
 
 
-```
+```bash
 sudo npm install express-generator -g
 sudo npm install nodemon -g
 express --ejs client-server
@@ -31,7 +30,7 @@ npm start
 
 **Após isso, abra um novo terminal na pasta raiz e continue rodando os comandos:**
 
-```
+```bash
 cd restful
 npm install
 nodemon index.js
