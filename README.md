@@ -12,7 +12,7 @@ Segue as orientações gerais para desenvolvedores que desejarem rodar o projeto
 
 - <a href="https://nodejs.org/en/">NodeJS - v14.20.1</a>
 
-**Após a instalação de todos as ferramentas acima, rode os seguintes comandos em seu terminal:**
+**Após a instalação de todas as ferramentas acima, rode os seguintes comandos em seu terminal:**
 
 
 ```bash
